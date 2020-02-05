@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello file2.
+=======
+Hello edited one
+>>>>>>> feature/branch_1
 
